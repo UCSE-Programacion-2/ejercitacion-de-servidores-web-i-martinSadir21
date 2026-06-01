@@ -39,6 +39,7 @@ Esta configuración está optimizada para proyectos backend con Express y MongoD
 ## 🔧 Configuración de MongoDB
 
 La extensión de MongoDB para VS Code te permite:
+
 - Conectar a bases de datos MongoDB
 - Explorar colecciones
 - Ejecutar consultas directamente desde VS Code
@@ -55,4 +56,3 @@ La extensión de MongoDB para VS Code te permite:
 - Backends con MongoDB
 - Servidores Node.js
 - Proyectos full-stack
-
